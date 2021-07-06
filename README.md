@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @fetlito
-- 👀 I’m interested in discord bots
-- 🌱 I’m currently learning discord.js
-- 💞️ I’m looking to collaborate on js,java
+# Nice to meet you!
+## I'm Fetli.
+### Learning about:
+- Video and Photo editing.
+- Coding and programing used in servers and games.
+## For contact i use [discord](https://discord.com/), @Fetli#0306.
+
 
 <!---
 fetlito/fetlito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
