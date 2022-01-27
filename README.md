@@ -1,4 +1,3 @@
-# Nice to meet you!
 ## I'm Fetli.
 ### Learning about:
 - Video and Photo editing.
