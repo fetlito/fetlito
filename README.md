@@ -2,7 +2,7 @@
 ## I'm Fetli.
 ### Learning about:
 - Video and Photo editing.
-- Coding and programing used in servers and games.
+- Programing used in servers and games.
 ## For contact i use [discord](https://discord.com/), @Fetli#0306.
 
 
