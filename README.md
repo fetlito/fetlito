@@ -2,7 +2,6 @@
 ### Learning about:
 - Video and Photo editing.
 - Programing used in servers and games.
-## For contact i use [discord](https://discord.com/), @Fetli#1249.
 
 
 <!---
